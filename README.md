@@ -1,4 +1,4 @@
-# Web Scrapping From Cyruscrafts
+# Web Scraping From Cyruscrafts
 + Web scraping from Cyruscrafts accessories and saving them in an Excel file
 
 ## Example
